@@ -1,4 +1,4 @@
-# Kaggle Projects Portfolio
+# Kaggle Projects Portfolio 📊
 
 This repo contains mini machine learning projects built as part of a warm-up phase for deeper DS/ML work. Each notebook explores a classic Kaggle dataset using foundational tools like Pandas, scikit-learn, and matplotlib.
 
